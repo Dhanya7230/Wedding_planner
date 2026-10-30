@@ -45,3 +45,5 @@ lerna-debug.log*
 *.sln
 *.sw?
 Thumbs.db
+VP_wp.json
+VP_WP.js
